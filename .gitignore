@@ -1,0 +1,27 @@
+document/out/
+document/logbook.tex
+
+.vscode/settings.json
+.AppleDouble
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# ===== Environment / secrets =====
+.env
+.env.*
+!.env.example
+
+# ===== Large experimental data =====
+*.bag
+*.db3
+*.mcap
+
+# ===== Temporary files =====
+*.tmp
+*.swp
+*~
+.DS_Store
