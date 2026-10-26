@@ -1,5 +1,7 @@
 document/out/
-document/logbook.tex
+document/logbook/
+document/proposal/
+document/defence_interview
 
 .vscode/settings.json
 .AppleDouble
@@ -25,3 +27,5 @@ venv/
 *.swp
 *~
 .DS_Store
+
+meeting/
